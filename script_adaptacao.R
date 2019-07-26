@@ -1,8 +1,4 @@
-
-#Como o artigo foi produzido a partir de cruzamentos na época feitos no no Excel, não temos ainda 
-# um script de replicação, que será feito assim que possível.
-#Esse script gera uma planilha csv, a partir da planilha original, que possui a correção dos
-#seus cabeçalhos e missings para facilitar a sua visualização em programas estatísticos.
+#Planilha de correção de cabeçalhos
 
 #Arquivo original: resolucoes_2005_2011_v2014.xlsx
 #Arquivo adaptado: resolucoes_2005_2011_v2014_corrected.csv 
